@@ -21,5 +21,3 @@ function file_get_contents_utf8($fn) {
 } 
 
 echo file_get_contents_utf8($url);
-
-?>
